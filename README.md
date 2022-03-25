@@ -5,6 +5,6 @@
 ![Snake animation](github-contribution-grid-snake.svg)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=sefakozan&color=ff2929)
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff2929.svg?logo=firefox&logoWidth=20&logoColor=#ffffff)](https://sefakozan.com/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ff2929.svg?logo=firefox&logoWidth=20&logoColor=ffffff)](https://sefakozan.com/)
 [![Linkedin](https://img.shields.io/badge/Linkedin-ff2929.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/sefa-kozan/)
 
