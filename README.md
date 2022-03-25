@@ -1,24 +1,9 @@
-![sefakozan](https://i.imgur.com/qKFHZDV.png)
+
+<h1 align="center">Hi 👋, I'm Sefa Kozan</h1>
+<h4 align="center">Full Stack, in ❤️ with coding.</h4>
+
+![Snake animation](github-contribution-grid-snake.svg)
 
 ![GitHub Views](https://komarev.com/ghpvc/?username=sefakozan&color=ff2929)
 [![Linkedin](https://img.shields.io/badge/Linkedin-ff2929.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/sefa-kozan/)
 
-
-### Hi there 👋
-
-
-
-<!--
-**sefakozan/sefakozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
