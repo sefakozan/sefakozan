@@ -1,4 +1,12 @@
+![sefakozan](https://i.imgur.com/qKFHZDV.png)
+
+![GitHub Views](https://komarev.com/ghpvc/?username=sefakozan&color=ff2929)
+[![Linkedin](https://img.shields.io/badge/Linkedin-ff2929.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/sefa-kozan/)
+
+
 ### Hi there 👋
+
+
 
 <!--
 **sefakozan/sefakozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
