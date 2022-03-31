@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Sefa</h1>
-<h4 align="center">Full Stack, in ❤️ with coding.</h4>
+<h4 align="center">Full Stack, in ♡ with coding.</h4>
 
 ![Snake animation](github-contribution-grid-snake.svg)
 
