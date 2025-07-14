@@ -1,6 +1,5 @@
 
 <h1 align="center">Sefa Kozan</h1>
-<h4 align="center">Jr. Developer</h4>
 
 ![Snake animation](github-contribution-grid-snake.svg)
 
