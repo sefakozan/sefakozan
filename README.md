@@ -9,9 +9,14 @@
 
 <div align="center">
 
+---
+&nbsp;
+
+<h1 style="border-bottom: none;">Sefa Kozan</h1>
+
 ### Full Stack Developer | Tech Enthusiast | Problem Solver
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=There's+no+place+like+127.0.0.1)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2d2d30&center=true&vCenter=true&width=600&lines=There's+no+place+like+127.0.0.1)](https://git.io/typing-svg)
 
 </div>
 
@@ -21,19 +26,17 @@
 <table>
 <tr>
 <td width="50%" height="195" align="center" valign="top">
-<img width="495" src="https://github-readme-stats.vercel.app/api?username=sefakozan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1c1c1e&text_color=ffffff&icon_color=8e8e93&title_color=ffffff" alt="GitHub Stats" />
+<img width="495" src="https://github-readme-stats.vercel.app/api?username=sefakozan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=2d2d30&text_color=ffffff&icon_color=8e8e93&title_color=ffffff" alt="GitHub Stats" />
 </td>
 <td width="50%" height="195" align="center" valign="top">
-<img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=sefakozan&hide_border=true&background=f5f5f7&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&stroke=000000&dates=000000" alt="GitHub Streak" />
+<img width="495" src="https://streak-stats.demolab.com/?user=sefakozan&hide_border=true&background=2d2d30&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8e8e93&currStreakNum=ffffff&sideNums=8e8e93&stroke=8e8e93&dates=8e8e93" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
 </div>
 
-&nbsp;
-
 <div align="center">
-<img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefakozan&layout=compact&hide_border=true&langs_count=8&bg_color=f5f5f7&text_color=000000&title_color=000000&card_width=495" alt="Top Languages" />
+<img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefakozan&layout=compact&hide_border=true&langs_count=8&bg_color=2d2d30&text_color=ffffff&title_color=ffffff&card_width=495" alt="Top Languages" />
 </div>
 
 &nbsp;
@@ -50,6 +53,4 @@
 
 ## 📈 Activity Graph
 
-[![Sefa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sefakozan&theme=github-compact&hide_border=true&bg_color=1c1c1e&color=ffffff&line=8e8e93&point=ffffff&area=true&area_color=8e8e93)](https://github.com/sefakozan)
-
----
+[![Sefa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sefakozan&theme=github-compact&hide_border=true&bg_color=2d2d30&color=ffffff&line=8e8e93&point=ffffff&area=true&area_color=8e8e93)](https://github.com/sefakozan)
