@@ -24,10 +24,10 @@
 <div align="center">
 <table style="border: none;">
 <tr>
-<td width="50%" height="195" align="center" valign="top" style="border: none;">
-<img width="495" src="https://github-readme-stats.vercel.app/api?username=sefakozan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=2d2d30&text_color=ffffff&icon_color=8e8e93&title_color=ffffff" alt="GitHub Stats" />
+<td width="50%" height="200" align="center" valign="top">
+<img width="480" src="https://github-readme-stats.vercel.app/api?username=sefakozan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=2d2d30&text_color=ffffff&icon_color=8e8e93&title_color=ffffff" alt="GitHub Stats" />
 </td>
-<td width="50%" height="195" align="center" valign="top" style="border: none;">
+<td width="50%" height="200" align="center" valign="top">
 <img width="495" src="https://nirzak-streak-stats.vercel.app/?user=sefakozan&hide_border=true&background=2d2d30&ring=ffffff&fire=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=8e8e93&dates=8b949e" alt="GitHub Streak" />
 </td>
 </tr>
