@@ -8,8 +8,6 @@
 ![Snake animation](github-contribution-grid-snake.svg)
 
 <div align="center">
-  
-# Sefa Kozan
 
 ### Full Stack Developer | Tech Enthusiast | Problem Solver
 
@@ -22,22 +20,20 @@
 <div align="center">
 <table>
 <tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sefakozan&show_icons=true&theme=dark&hide_border=true&count_private=true&include_all_commits=true&bg_color=1c1c1e&text_color=ffffff&icon_color=8e8e93&title_color=ffffff" alt="GitHub Stats" />
+<td width="50%" height="195" align="center" valign="top">
+<img width="495" src="https://github-readme-stats.vercel.app/api?username=sefakozan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=1c1c1e&text_color=ffffff&icon_color=8e8e93&title_color=ffffff" alt="GitHub Stats" />
 </td>
-<td width="50%" align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sefakozan&theme=dark&hide_border=true&background=1c1c1e&ring=8e8e93&fire=ffffff&currStreakLabel=ffffff&sideLabels=8e8e93&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sefakozan&repo=ytsave&theme=dark&hide_border=true&show_owner=true&bg_color=1c1c1e&text_color=ffffff&title_color=ffffff" alt="Recent Project" />
-</td>
-<td width="50%" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefakozan&layout=compact&theme=dark&hide_border=true&langs_count=8&bg_color=1c1c1e&text_color=ffffff&title_color=ffffff" alt="Top Languages" />
+<td width="50%" height="195" align="center" valign="top">
+<img width="495" src="https://github-readme-streak-stats.herokuapp.com/?user=sefakozan&hide_border=true&background=f5f5f7&ring=000000&fire=000000&currStreakLabel=000000&sideLabels=000000&currStreakNum=000000&sideNums=000000&stroke=000000&dates=000000" alt="GitHub Streak" />
 </td>
 </tr>
 </table>
+</div>
+
+&nbsp;
+
+<div align="center">
+<img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefakozan&layout=compact&hide_border=true&langs_count=8&bg_color=f5f5f7&text_color=000000&title_color=000000&card_width=495" alt="Top Languages" />
 </div>
 
 &nbsp;
@@ -54,6 +50,6 @@
 
 ## 📈 Activity Graph
 
-[![Sefa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sefakozan&theme=high-contrast&hide_border=true&bg_color=1c1c1e&color=ffffff&line=8e8e93&point=ffffff)](https://github.com/sefakozan)
+[![Sefa's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sefakozan&theme=github-compact&hide_border=true&bg_color=1c1c1e&color=ffffff&line=8e8e93&point=ffffff&area=true&area_color=8e8e93)](https://github.com/sefakozan)
 
 ---
