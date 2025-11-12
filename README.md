@@ -9,39 +9,11 @@
 
 <div align="center">
 
-&nbsp;
-
-<h1 style="border-bottom: none;">Sefa Kozan</h1>
-
-### Full Stack Developer | Tech Enthusiast | Problem Solver
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2d2d30&center=true&vCenter=true&width=600&lines=There's+no+place+like+127.0.0.1)](https://git.io/typing-svg)
 
 </div>
 
-## 📊 GitHub Stats
-
-<div align="center">
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td width="48%" height="195" align="center" valign="middle" style="border: none; padding-right: 10px;">
-<img width="100%" height="195" src="https://github-readme-stats.vercel.app/api?username=sefakozan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&bg_color=2d2d30&text_color=ffffff&icon_color=8e8e93&title_color=ffffff" alt="GitHub Stats" />
-</td>
-<td width="4%" style="border: none;"></td>
-<td width="48%" height="195" align="center" valign="middle" style="border: none; padding-left: 10px;">
-<img width="100%" height="195" src="https://nirzak-streak-stats.vercel.app/?user=sefakozan&hide_border=true&background=2d2d30&ring=ffffff&fire=ffffff&currStreakLabel=c9d1d9&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&stroke=8e8e93&dates=8b949e" alt="GitHub Streak" />
-</td>
-</tr>
-</table>
-</div>
-
-<div align="center">
-<img width="495" height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sefakozan&layout=compact&hide_border=true&langs_count=8&bg_color=2d2d30&text_color=ffffff&title_color=ffffff&card_width=495" alt="Top Languages" />
-</div>
-
-&nbsp;
-
-## 🏆 GitHub Trophies
+##  GitHub Trophies
 
 <div align="center">
 
