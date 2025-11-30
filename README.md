@@ -1,9 +1,11 @@
 <p align="right">
 <a href="https://sefakozan.github.io/" target="_blank" rel="nofollow"><img src="website.svg" alt="Website"></a>
 <a href="https://www.linkedin.com/in/sefa-kozan/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
-<img src="https://img.shields.io/badge/80-000000?style=for-the-badge" alt="Profile Views">
 </p>
 
+250541057  
+Muhammet Sefa Kozan  
+Oryantasyon Vizesi: https://youtu.be/A9Hi1PT84_A
 
 ![Snake animation](github-contribution-grid-snake.svg)
 
