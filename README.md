@@ -11,14 +11,6 @@
 
 </div>
 
-##  GitHub Trophies
-
-<div align="center">
-
-![trophy](https://github-profile-trophy.vercel.app/?username=sefakozan&theme=onedark&no-frame=true&no-bg=true&margin-w=4&column=8&filter=JoinedAt,Followers,Stars,Repositories,Commits,Issues,PullRequest)
-
-</div>
-
 &nbsp;
 
 ## 📈 Activity Graph
