@@ -3,10 +3,6 @@
 <a href="https://www.linkedin.com/in/sefa-kozan/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 </p>
 
-250541057  
-Muhammet Sefa Kozan  
-Oryantasyon Vizesi: https://youtu.be/A9Hi1PT84_A
-
 ![Snake animation](github-contribution-grid-snake.svg)
 
 <div align="center">
