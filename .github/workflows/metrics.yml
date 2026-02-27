@@ -1,0 +1,20 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Her gün otomatik güncelle
+  workflow_dispatch:        # Elle de çalıştırabilirsin
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.leetcode.svg
+          token: NOT_NEEDED          # LeetCode için GitHub token gerekmez
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: Kozan-   # ← bunu değiştir
+          plugin_leetcode_sections: solved, skills, recent
