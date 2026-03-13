@@ -3,9 +3,13 @@
 <a href="https://www.linkedin.com/in/sefa-kozan/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 </p>
 
-![Snake animation](github-contribution-grid-snake.svg)
+<picture>
+	<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sefakozan/sefakozan/svg/github-contribution-grid-snake-dark.svg">
+	<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sefakozan/sefakozan/svg/github-contribution-grid-snake.svg">
+	<img alt="Snake animation" src="https://raw.githubusercontent.com/sefakozan/sefakozan/svg/github-contribution-grid-snake.svg">
+</picture>
 
-![LeetCode Stats](./metrics.plugin.leetcode.svg)
+![LeetCode Stats](https://raw.githubusercontent.com/sefakozan/sefakozan/svg/metrics.plugin.leetcode.svg)
 
 
 &nbsp;
