@@ -1,16 +1,14 @@
-## Hi there 👋
+<p align="right">
+<a href="https://sefakozan.github.io/" target="_blank" rel="nofollow"><img src="assets/website.svg" alt="Website"></a>
+<a href="https://www.linkedin.com/in/sefa-kozan/" target="_blank" rel="nofollow"><img src="assets/linkedin.svg" alt="LinkedIn"></a>
+</p>
 
-<!--
-**sefakozan/sefakozan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Sefa Kozan – GitHub Activity Game
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="assets/space-shooter.gif" alt="GitHub Space Shooter" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+&nbsp;
+
+![LeetCode Stats](https://raw.githubusercontent.com/sefakozan/sefakozan/main/assets/metrics.plugin.leetcode.svg)

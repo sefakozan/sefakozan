@@ -1,0 +1,24 @@
+name: Metrics
+on:
+  schedule:
+    - cron: "0 0 * * *"   # Automatically updates every day at 00:00
+  workflow_dispatch:
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: assets/metrics.plugin.leetcode.svg
+          token: NOT_NEEDED
+          output_action: commit
+          committer_branch: main
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_message: "chore: update metrics"
+          base: ""
+          plugin_leetcode: yes
+          plugin_leetcode_user: Kozan-
+          plugin_leetcode_sections: solved, skills, recent
