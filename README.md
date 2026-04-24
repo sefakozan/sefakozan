@@ -11,4 +11,7 @@
 
 &nbsp;
 
-![LeetCode Stats](https://raw.githubusercontent.com/sefakozan/sefakozan/main/assets/metrics.plugin.leetcode.svg)
+<div align="center">
+<img src="https://raw.githubusercontent.com/sefakozan/sefakozan/main/assets/metrics.plugin.leetcode.svg" height="300" valign="middle"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sefakozan&theme=dark&show_icons=true&hide_border=true&count_private=true" height="200" valign="middle"/>
+</div>
